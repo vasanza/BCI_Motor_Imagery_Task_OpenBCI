@@ -12,8 +12,7 @@ A cada sujeto de prueba se le explicará el propósito del experimento, quienes 
 - Apellidos
 - Num. Repetición
 # Equipamento OpenBCI
-- ![image](https://user-images.githubusercontent.com/12642226/130701876-ac549432-40f8-4e03-908e-1b4803644065.png)
-- ![image](https://user-images.githubusercontent.com/12642226/130701884-66926cd7-3a55-409b-bf16-33ab2e8d3845.png)
+- ![image](https://user-images.githubusercontent.com/12642226/130701876-ac549432-40f8-4e03-908e-1b4803644065.png) ![image](https://user-images.githubusercontent.com/12642226/130701884-66926cd7-3a55-409b-bf16-33ab2e8d3845.png)
 
 # Protocolo
 - Los sujetos serán recibidos por personal encargado de llevar a cabo el experimento que los atenderá amablemente. El personal evitará utilizar batas blancas o vestimenta médica, pero tampoco se utilizará colores llamativos que distraigan la atención de los sujetos durante el experimento.
@@ -25,8 +24,7 @@ A cada sujeto de prueba se le explicará el propósito del experimento, quienes 
 (Usar como ejemplo, este formulario es para los registros EEG)
 - Los sujetos serán sentados en un sillón cómodo con sus extremidades superiores puestas sobre los apoya brazos del sillón y con un ángulo de codo de 145°. Por otro lado, las extremidades inferiores estarán suspendidas en el aire, apoyadas sobre un soporte de una altura de 25cm con un ángulo de 145° con respecto a sus muslos.
 - Se colocará un monitor de pantalla de 17" a una distancia entre el plano objetivo y el acromion que correspondía al 80% de la longitud del brazo.
-- ![image](https://user-images.githubusercontent.com/12642226/130649818-06206a15-ce56-4f0b-832f-40fbbf76a233.png)
-- ![image](https://user-images.githubusercontent.com/12642226/130649824-c6c8ef17-119f-4d0e-aaf0-5eb415fac74a.png)
+- ![image](https://user-images.githubusercontent.com/12642226/130649818-06206a15-ce56-4f0b-832f-40fbbf76a233.png) ![image](https://user-images.githubusercontent.com/12642226/130649824-c6c8ef17-119f-4d0e-aaf0-5eb415fac74a.png)
 - A cada sujeto se colocará el sistema de registro de EEG que consta de un casco y 16 electrodos, distribuidos en el sistema internacional 10 - 20. No se usará gel conductor en cada electrodo ya que estos son de contacto seco.
 - Antes de comenzar la adquisición de cada sesión, los investigadores impartirán instrucciones estandarizadas sobre la ejecución de las tareas a ejecutar a los participantes y se realizara una sesión corta de prueba.
 - Se solicitará a cada participante que realice 10 sesiones (5 motoras y 5 imagenetico motoras) de 240 segundos de duración cada una (4min). En cada sesión los participantes realizarán 30 tareas que incluyen la ejecución de extremidades superiores e inferiores [78,79,110]. Cada sesión será identificada con un numero que va entre 1 – 10, permitiendo que el sujeto de prueba pueda continuar con sus sesiones en días posteriores si lo considera necesario.
