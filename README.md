@@ -30,15 +30,28 @@ A cada sujeto de prueba se le explicará el propósito del experimento, quienes 
 - A cada sujeto se colocará el sistema de registro de EEG que consta de un casco y 16 electrodos, distribuidos en el sistema internacional 10 - 20. No se usará gel conductor en cada electrodo ya que estos son de contacto seco.
 - Antes de comenzar la adquisición de cada sesión, los investigadores impartirán instrucciones estandarizadas sobre la ejecución de las tareas a ejecutar a los participantes y se realizara una sesión corta de prueba.
 - Se solicitará a cada participante que realice 10 sesiones (5 motoras y 5 imagenetico motoras) de 240 segundos de duración cada una (4min). En cada sesión los participantes realizarán 30 tareas que incluyen la ejecución de extremidades superiores e inferiores [78,79,110]. Cada sesión será identificada con un numero que va entre 1 – 10, permitiendo que el sujeto de prueba pueda continuar con sus sesiones en días posteriores si lo considera necesario.
+
+# Tareas Motoras
 - Durante las 5 sesiones de tareas motoras, el participante tendrá que mirar la pantalla y esperar hasta que aparezca la instrucción de tarea a ser ejecutada:
 - Registrar un baseline con ojos abiertos (BEO) sin ninguna orden durante 4s.
 - Registrar 30 tareas motoras (M) en forma aleatoria con tiempos aleatorios entre 4s de duración, intercaladas por 4s de descanso con ojos abiertos viendo monitor y relajando todos los músculos del cuerpo.
--- Ejecución de movimiento, cerrar mano izquierda (LCH)
--- Ejecución de movimiento, cerrar mano derecha (RCH)
--- Ejecución de movimiento, flexión dorsal de pie izquierdo (LDF)
--- Ejecución de movimiento, flexión plantar de pie izquierdo (LPF)
--- Ejecución de movimiento, flexión dorsal de pie derecho (RDF)
--- Ejecución de movimiento, flexión plantar de pie derecho (RPF)
+- Ejecución de movimiento, cerrar mano izquierda (LCH)
+- Ejecución de movimiento, cerrar mano derecha (RCH)
+- Ejecución de movimiento, flexión dorsal de pie izquierdo (LDF)
+- Ejecución de movimiento, flexión plantar de pie izquierdo (LPF)
+- Ejecución de movimiento, flexión dorsal de pie derecho (RDF)
+- Ejecución de movimiento, flexión plantar de pie derecho (RPF)
+
+# Tareas Imagenetico Motoras
+- Durante las 5 sesiones posteriores de tareas imagenetico motoras, el participante tendrá que mirar la pantalla y esperar hasta que aparezca la instrucción de tarea a ser ejecutada:
+- Registrar un baseline con ojos abiertos (BEO) sin ninguna orden durante 4s.
+- Registrar 30 tareas imagenetico motoras (I) en forma aleatoria con tiempos aleatorios entre 4s de duración, intercaladas por 4s de descanso con ojos abiertos viendo monitor y relajando todos los músculos del cuerpo.
+- Imaginar en primera persona, cerrar mano izquierda (LCH)
+- Imaginar en primera persona, cerrar mano derecha (RCH)
+- Imaginar en primera persona, flexión dorsal de pie izquierdo (LDF)
+- Imaginar en primera persona, flexión plantar de pie izquierdo (LPF)
+- Imaginar en primera persona, flexión dorsal de pie derecho (RDF)
+- Imaginar en primera persona, flexión plantar de pie derecho (RPF)
 
 - Durante una sesión el sujeto deberá realizar las 30 tareas arriba indicadas con las extremidades superiores o inferiores según sea el caso.
 - Después de cada sesión, el sujeto podrá descansar por el período de tiempo que crea conveniente.
