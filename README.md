@@ -11,11 +11,10 @@ A cada sujeto de prueba se le explicará el propósito del experimento, quienes 
 - Nombres
 - Apellidos
 - Num. Repetición
-# Equipamento
-- https://www.sparkfun.com/products/13723
-- ![image](https://user-images.githubusercontent.com/12642226/130650634-e94d2204-c81b-4fa7-a373-25a431a64970.png)
-- https://www.adafruit.com/product/3405
-- ![image](https://user-images.githubusercontent.com/12642226/130650543-e38258c6-7b9c-43d4-a17e-582c0b966c68.png)
+# Equipamento OpenBCI
+- ![image](https://user-images.githubusercontent.com/12642226/130701876-ac549432-40f8-4e03-908e-1b4803644065.png)
+- ![image](https://user-images.githubusercontent.com/12642226/130701884-66926cd7-3a55-409b-bf16-33ab2e8d3845.png)
+
 # Protocolo
 - Los sujetos serán recibidos por personal encargado de llevar a cabo el experimento que los atenderá amablemente. El personal evitará utilizar batas blancas o vestimenta médica, pero tampoco se utilizará colores llamativos que distraigan la atención de los sujetos durante el experimento.
 - El personal encargado del experimento respetara las medidas de bioseguridad ante el riesgo del COVID-19, las medidas dispuestas por el ministerio de salud publica del gobierno del Ecuador incluyen: uso obligatorio de mascarillas, área de experimentación ventilada, superficies de contacto debidamente desinfectadas, así como limpieza de todos los utensilios utilizados antes y después de cada experimento. [https://www.salud.gob.ec/medidas-de-proteccion-basicas-contra-el-nuevo-coronavirus/]
@@ -34,8 +33,13 @@ A cada sujeto de prueba se le explicará el propósito del experimento, quienes 
 - Durante las 5 sesiones de tareas motoras, el participante tendrá que mirar la pantalla y esperar hasta que aparezca la instrucción de tarea a ser ejecutada:
 - Registrar un baseline con ojos abiertos (BEO) sin ninguna orden durante 4s.
 - Registrar 30 tareas motoras (M) en forma aleatoria con tiempos aleatorios entre 4s de duración, intercaladas por 4s de descanso con ojos abiertos viendo monitor y relajando todos los músculos del cuerpo.
-- Ejecución de movimiento, cerrar mano izquierda (LCH)
-- Ejecución de movimiento, cerrar mano derecha (RCH)
+-- Ejecución de movimiento, cerrar mano izquierda (LCH)
+-- Ejecución de movimiento, cerrar mano derecha (RCH)
+-- Ejecución de movimiento, flexión dorsal de pie izquierdo (LDF)
+-- Ejecución de movimiento, flexión plantar de pie izquierdo (LPF)
+-- Ejecución de movimiento, flexión dorsal de pie derecho (RDF)
+-- Ejecución de movimiento, flexión plantar de pie derecho (RPF)
+
 - Durante una sesión el sujeto deberá realizar las 30 tareas arriba indicadas con las extremidades superiores o inferiores según sea el caso.
 - Después de cada sesión, el sujeto podrá descansar por el período de tiempo que crea conveniente.
 Cada sujeto de prueba vera en pantalla imágenes características que indicaran la tarea a realizar:
