@@ -1,5 +1,25 @@
 # BCI_Motor_Imagery_Task_OpenBCI
 Motor and Imagery task using EEG Signals recolected by OpenBCI
+
+# CLONE
+- git status
+- git clone https://github.com/vasanza/BCI_Motor_Imagery_Task_OpenBCI.git
+
+# SWITCHED TO BRANCH
+- git branch -a
+- git checkout NameBranch
+
+# New Branch
+- git checkout -b NameBranch
+
+# PUSH
+- git pull origin NameBranch
+- git status
+- git add .
+- git status
+- git commit -m "message"
+- git push origin NameBrach
+
 # Metodología Experimental
 - Se reclutarán al menos 20 sujetos adultos jóvenes (sin discriminación de género) entre 20 y 35 años, que formarán el grupo de prueba. Sujetos amputados.
 - Los integrantes del grupo patológico deberán ser de preferencia diestros valorados con la escala Edinburgh Handedness Inventory, no deberán presentar cirugías cerebrales en su historial médico ni otras patologías asociadas al sistema nervioso central como epilepsia, discapacidad mental, etc. Además, deberán tener la habilidad de entender y seguir instrucciones.
