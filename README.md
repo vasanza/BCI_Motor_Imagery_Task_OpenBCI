@@ -57,9 +57,28 @@ A cada sujeto de prueba se le explicará el propósito del experimento, quienes 
 - Después de cada sesión, el sujeto podrá descansar por el período de tiempo que crea conveniente.
 Cada sujeto de prueba vera en pantalla imágenes características que indicaran la tarea a realizar:
 - ![image](https://user-images.githubusercontent.com/12642226/130650042-4e310018-5247-482b-a3c0-2120ced9f03c.png)
-- Registrar un baseline con el sujeto en descanso sin ningún estímulo visual:
-- ![Descanso](https://user-images.githubusercontent.com/12642226/130650240-e25dc326-b05e-4d90-8bc7-f84dd6f60484.jpg)
-- Registro de actividad motora en mano derecha (RCH):
-- ![SupDe](https://user-images.githubusercontent.com/12642226/130650261-cc5c3da0-e950-4981-9432-06b19fbad697.jpg)
-- Registro de actividad motora en mano izquierda (RLH):
-- ![SupIz](https://user-images.githubusercontent.com/12642226/130650275-7973c4cb-c8e6-4bfc-826c-986eab8cd651.jpg)
+
+# Registrar un baseline con ojos abiertos (BEO) sin ningún estímulo visual.
+![image](https://user-images.githubusercontent.com/12642226/130702170-755b4cc1-437c-4dff-9390-a5ab75a3b103.png)
+
+# Descanso con ojos abiertos viendo monitor.
+![image](https://user-images.githubusercontent.com/12642226/130702196-e6ce844b-d12b-4813-a5d7-19288e723d95.png)
+
+# Cerrar mano izquierda (LCH).
+![image](https://user-images.githubusercontent.com/12642226/130702223-174f5d2e-4a36-4c90-b830-c4c9b4e27243.png)
+
+# Cerrar mano derecha (RCH).
+![image](https://user-images.githubusercontent.com/12642226/130702235-f0c7031f-b339-48eb-b33b-32cef575e9f6.png)
+
+# Flexión dorsal pie izquierdo (LDF).
+![image](https://user-images.githubusercontent.com/12642226/130702250-d1bbdfd5-82a4-4bba-a366-fdcd6c226b26.png)
+
+# Flexión plantar pie izquierdo (LPF).
+![image](https://user-images.githubusercontent.com/12642226/130702268-8d3ba01b-c43d-4123-9490-fe3616c3ed13.png)
+
+# Flexión dorsal pie derecho (RDF).
+![image](https://user-images.githubusercontent.com/12642226/130702286-f2c5242a-3505-4e0a-b4ca-5cd8ea5d31dc.png)
+
+# Flexión plantar pie derecho (RPF).
+![image](https://user-images.githubusercontent.com/12642226/130702296-11429b29-fdb8-4877-9104-04d8b4bb7661.png)
+
