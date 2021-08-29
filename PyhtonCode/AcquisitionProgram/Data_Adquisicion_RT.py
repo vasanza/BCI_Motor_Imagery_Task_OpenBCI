@@ -6,14 +6,14 @@ import time
 import keyboard
 import serial
 ser = serial.Serial('COM13', 9600, timeout=0, parity=serial.PARITY_NONE, rtscts=1)  # open serial port
-
+path='D:/GoogleDrive/F_BLOG/GITHUB/BCI_Motor_Imagery_Task_OpenBCI/PyhtonCode/'
 Datos_acumulados,DatosDescansos=[],[]
 datos="1"
 
 
 def Data():
     name = "DATO"
-    im = cv2.imread('D:/GoogleDrive/F_BLOG/GITHUB/OpenBCI/Imagenes/Baseline.jpg')
+    im = cv2.imread(path+'Imagenes/Baseline.jpg')
     cv2.namedWindow('Image', cv2.WINDOW_NORMAL)
     cv2.setWindowProperty('Image', cv2.WND_PROP_FULLSCREEN, cv2.WINDOW_FULLSCREEN)
     cv2.imshow("Image", im)
@@ -27,7 +27,7 @@ def Data():
             print("Tiempo de adquisicion:" ,(time.time() - inicio))
             cv2.waitKey(1)
             df = pd.DataFrame(Datos_acumulados)
-            df.to_csv("D:/GoogleDrive/F_BLOG/GITHUB/OpenBCI/BCI_AWARD/" + name + '.csv')
+            df.to_csv(path+"BCI_AWARD/" + name + '.csv')
             Datos_acumulados.clear()
             break
 
@@ -53,7 +53,7 @@ while __name__ == '__main__':
             Data()
             ser.write(b'B')  # write a string
     else:
-        img = cv2.imread('D:/GoogleDrive/F_BLOG/GITHUB/OpenBCI/Imagenes/Descanso.jpg')
+        img = cv2.imread(path+'Imagenes//Descanso.jpg')
         cv2.namedWindow('Image', cv2.WINDOW_NORMAL)
         cv2.setWindowProperty('Image', cv2.WND_PROP_FULLSCREEN, cv2.WINDOW_FULLSCREEN)
         cv2.imshow('Image', img)
