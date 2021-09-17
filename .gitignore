@@ -1,7 +1,7 @@
 # Files
 #*.data
-data/*.mat
-data/*.csv
+MatlabCode/data/*.mat
+MatlabCode/data/*.csv
 # Folders
 #data/*.mat
 #Meetings
