@@ -2,6 +2,10 @@
 #*.data
 MatlabCode/data/*.mat
 MatlabCode/data/*.csv
+MatlabCode/figures/*.fig
+MatlabCode/figures/*.jpg
+MatlabCode/figuresNorm/*.fig
+MatlabCode/figuresNorm/*.jpg
 # Folders
 #data/*.mat
 #Meetings

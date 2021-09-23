@@ -13,6 +13,7 @@ function [] = fPlotEEG(EEGData,filename)
 	%legend('Electrode 1','Electrode 2','Electrode 3','Electrode 4','Electrode 5'...
     %,'Electrode 6','Electrode 7','Electrode 8','Electrode 9','Electrode 10'...
     %,'Electrode 11','Electrode 12','Electrode 13','Electrode 14','Electrode 15','Electrode 16');
-	savefig(strcat(filename,'.fig'))
-	saveas(gcf,strcat(filename,'.jpg'))
+	savefig(strcat(filename,'.fig'));
+	set(gca,'position',[0 0 1 1],'units','normalized');
+	saveas(gcf,strcat(filename,'.jpg'));
 end

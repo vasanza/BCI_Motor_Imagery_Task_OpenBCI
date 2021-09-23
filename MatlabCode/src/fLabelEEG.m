@@ -3,10 +3,12 @@
 % output (Label): Numeracy label
 
 % Remember that for this experiment the labels represent:
-% BEO, LCH, RCH, LDF, LPF, RDF, RPF, Descanso = "1", "2", "3", "4", "5", "6", "7", "8"
+% Imagery -> BEO, LCH, RCH, LDF, LPF, RDF, RPF, Rest = "1", "2", "3", "4", "5", "6", "7", "8"
+% Motor -> BEO, LCH, RCH, LDF, LPF, RDF, RPF, Rest = "9", "10", "11", "12", "13", "14", "15", "16"
 
 % Example: 
-%   Label=fLabelEEG('S8R4M8_7_5.csv')
+%   Label=fLabelEEG('S8R4M8_7_5.csv');
+%   Label=4
 
 % More examples: https://github.com/vasanza/Matlab_Code
 % Read more: https://vasanza.blogspot.com/
