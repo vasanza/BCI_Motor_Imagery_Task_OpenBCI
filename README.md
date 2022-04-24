@@ -1,18 +1,19 @@
 # BCI_Motor_Imagery_Task_OpenBCI
 Motor and Imagery task using EEG Signals recolected by OpenBCI
 
-# CLONE
+# Keynote
+## Clone
 - git status
 - git clone https://github.com/vasanza/BCI_Motor_Imagery_Task_OpenBCI.git
 
-# SWITCHED TO BRANCH
+## Switched to Branch
 - git branch -a
 - git checkout NameBranch
 
-# New Branch
+## New Branch
 - git checkout -b NameBranch
 
-# PUSH
+## Push
 - git pull origin NameBranch
 - git status
 - git add .
@@ -26,11 +27,13 @@ Motor and Imagery task using EEG Signals recolected by OpenBCI
 - Los criterios de exclusión serán: déficit cognitivo severo y déficit sensoriales como auditivo, perceptivo y una espasticidad severa que impida la ejecución de las actividades motoras. (Modified ashworth scale >3). Medicamentos que afecten la realización de las tareas.
 - Los participantes serán reclutados de la Escuela Superior Politécnica del Litoral – ESPOL en la ciudad de Guayaquil. 
 A cada sujeto de prueba se le explicará el propósito del experimento, quienes además firmarán un consentimiento informado previo a la realización del experimento.
+
 # Tabla de registros
 - ID Sujetos
 - Nombres
 - Apellidos
 - Num. Repetición
+
 # Equipamento OpenBCI
 - ![image](https://user-images.githubusercontent.com/12642226/130701876-ac549432-40f8-4e03-908e-1b4803644065.png) ![image](https://user-images.githubusercontent.com/12642226/130701884-66926cd7-3a55-409b-bf16-33ab2e8d3845.png)
 
