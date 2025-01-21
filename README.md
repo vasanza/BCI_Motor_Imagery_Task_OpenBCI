@@ -2,12 +2,11 @@
 Motor and Imagery task using EEG Signals recolected by OpenBCI
 
 Database for Upper and Lower Limb Task Based on EEG Signals During the Execution of Motor and Motorimagery Tasks
-
-Main Code: https://github.com/Human-Machine-Interface/OpenBCI_Data_Acquisition
-Data Mendeley: https://data.mendeley.com/datasets/x8psbz3f6x/2
-More Matlab Examples: https://github.com/Human-Machine-Interface
-Hardware: FM=16 chanels , Cyton + Dasy , Campling Rate = 125 Hz
-Subjects: 60
+- Main Code: https://github.com/Human-Machine-Interface/OpenBCI_Data_Acquisition
+- Data Mendeley: https://data.mendeley.com/datasets/x8psbz3f6x/2
+- More Matlab Examples: https://github.com/Human-Machine-Interface
+- Hardware: FM=16 chanels , Cyton + Dasy , Campling Rate = 125 Hz
+- Subjects: 60
 
 # Metodología Experimental
 - Se reclutarán al menos 20 sujetos adultos jóvenes (sin discriminación de género) entre 20 y 35 años, que formarán el grupo de prueba. Sujetos amputados.
