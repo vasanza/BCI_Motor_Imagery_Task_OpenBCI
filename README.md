@@ -1,25 +1,13 @@
 # BCI_Motor_Imagery_Task_OpenBCI
 Motor and Imagery task using EEG Signals recolected by OpenBCI
 
-# Keynote
-## Clone
-- git status
-- git clone https://github.com/vasanza/BCI_Motor_Imagery_Task_OpenBCI.git
+Database for Upper and Lower Limb Task Based on EEG Signals During the Execution of Motor and Motorimagery Tasks
 
-## Switched to Branch
-- git branch -a
-- git checkout NameBranch
-
-## New Branch
-- git checkout -b NameBranch
-
-## Push
-- git pull origin NameBranch
-- git status
-- git add .
-- git status
-- git commit -m "message"
-- git push origin NameBrach
+Main Code: https://github.com/Human-Machine-Interface/OpenBCI_Data_Acquisition
+Data Mendeley: https://data.mendeley.com/datasets/x8psbz3f6x/2
+More Matlab Examples: https://github.com/Human-Machine-Interface
+Hardware: FM=16 chanels , Cyton + Dasy , Campling Rate = 125 Hz
+Subjects: 60
 
 # Metodología Experimental
 - Se reclutarán al menos 20 sujetos adultos jóvenes (sin discriminación de género) entre 20 y 35 años, que formarán el grupo de prueba. Sujetos amputados.
@@ -103,3 +91,22 @@ Cada sujeto de prueba vera en pantalla imágenes características que indicaran 
 # Flexión plantar pie derecho (RPF).
 ![image](https://user-images.githubusercontent.com/12642226/130702296-11429b29-fdb8-4877-9104-04d8b4bb7661.png)
 
+# Keynote
+## Clone
+- git status
+- git clone https://github.com/vasanza/BCI_Motor_Imagery_Task_OpenBCI.git
+
+## Switched to Branch
+- git branch -a
+- git checkout NameBranch
+
+## New Branch
+- git checkout -b NameBranch
+
+## Push
+- git pull origin NameBranch
+- git status
+- git add .
+- git status
+- git commit -m "message"
+- git push origin NameBrach
