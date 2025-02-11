@@ -1,28 +1,56 @@
 # BCI_Motor_Imagery_Task_OpenBCI
 Motor and Imagery task using EEG Signals recolected by OpenBCI
 
+# [MILimbEEG](https://data.mendeley.com/datasets/w9xfz56txv/2)
+Biomedical Electroencephalography (EEG) signals are the result of measuring the electric potential difference generated on the scalp surface by neural activity corresponding to each brain area. Accurate and automatic detection of neural activity from the upper and lower limbs using EEG may be helpful in rehabilitating people suffering from mobility limitations or disabilities. This article presents a dataset containing 7440 CSV files from 60 test subjects during motor and motor imagery tasks. The motor and motor imagery tasks performed by the test subjects were: Closing Left Hand (CLH), Closing Right Hand (CRH), Dorsal flexion of Left Foot (DLF), Plantar flexion of Left Foot (PLF), Dorsal flexion of Right Foot (DRF), Plantar flexion of Right Foot (PRF) and Resting in between tasks (Rest). The volunteers were recruited from research colleagues at ESPOL and patients at the Luis Vernaza Hospital in Guayaquil, Ecuador. Each CSV file has 501 rows, of which the first one lists the electrodes from 0 to 15, and the remaining 500 rows correspond to 500 data recorded during the task is performed due to sample rate. In addition, each file has 17 columns, of which the first one indicates the sampling number and the remaining 16 columns represent 16 surface EEG electrodes. As a data recording equipment, the OpenBCI is used in a monopolar setup with a sampling rate of 125 Hz. This work includes statistical measures about the demographic information of all recruited test subjects. Finally, we outline the experimental methodology used to record EEG signals during upper and lower limb task execution. This dataset is called MILimbEEG and contains microvolt (µV) EEG signals acquired during motor and motor imagery tasks. The collected data may facilitate the evaluation of EEG signal detection and classification models dedicated to task recognition.
+
 Database for Upper and Lower Limb Task Based on EEG Signals During the Execution of Motor and Motorimagery Tasks
+- **Journal**: https://www.sciencedirect.com/science/article/pii/S2352340923006406?via%3Dihub
 - Main Code: https://github.com/Human-Machine-Interface/OpenBCI_Data_Acquisition
 - Data Mendeley: https://data.mendeley.com/datasets/x8psbz3f6x/2
 - More Matlab Examples: https://github.com/Human-Machine-Interface
 - Hardware: FM=16 chanels , Cyton + Dasy , Campling Rate = 125 Hz
 - Subjects: 60
 
-# Metodología Experimental
-- Se reclutarán al menos 20 sujetos adultos jóvenes (sin discriminación de género) entre 20 y 35 años, que formarán el grupo de prueba. Sujetos amputados.
-- Los integrantes del grupo patológico deberán ser de preferencia diestros valorados con la escala Edinburgh Handedness Inventory, no deberán presentar cirugías cerebrales en su historial médico ni otras patologías asociadas al sistema nervioso central como epilepsia, discapacidad mental, etc. Además, deberán tener la habilidad de entender y seguir instrucciones.
-- Los criterios de exclusión serán: déficit cognitivo severo y déficit sensoriales como auditivo, perceptivo y una espasticidad severa que impida la ejecución de las actividades motoras. (Modified ashworth scale >3). Medicamentos que afecten la realización de las tareas.
-- Los participantes serán reclutados de la Escuela Superior Politécnica del Litoral – ESPOL en la ciudad de Guayaquil. 
-A cada sujeto de prueba se le explicará el propósito del experimento, quienes además firmarán un consentimiento informado previo a la realización del experimento.
+# Equipment
+We use the OpenBCI Cyton + Daisy (www.openbci.com) [1] Biosensing Board for EEG signal recording. The equipment has an active bandpass filter in the 5 to 50 Hz range, additionally, a notch filter at 60 Hz [1]. This non-invasive device operates within a sampling frequency of 125 Hz and has 16 dry electrodes with two ground references, distributed in the international 10–20 system. All 16 EEG electrodes were recorded in monopolar configuration, in which the potential of each electrode is compared with a neutral electrode located in both lobes of the ears [2]. To guarantee the replicability of the EEG signal recording, the international 10/10 system standardized by the AES was used [10]. The distribution of the 16 electrodes is shown in the figure:
+
+![image](https://github.com/user-attachments/assets/0585a66f-c9a4-4255-9215-ce7315257354)
+
+The connections of the electrodes to the Cyton and Dazzy PCBs are as follows:
+- [Cyton board](https://docs.openbci.com/Cyton/CytonLanding/)
+  - Electrode 1: CH1 (FC5 in 10-10 system EEG)
+  - Electrode 2: CH2 (F3 in 10-10 system EEG)
+  - Electrode 3: CH3 (FZ in 10-10 system EEG)
+  - Electrode 4: CH4 (F4 in 10-10 system EEG)
+  - Electrode 5: CH5 (FC5 in 10-10 system EEG)
+  - Electrode 6: CH6 (FC1 in 10-10 system EEG)
+  - Electrode 7: CH7 (FC2 in 10-10 system EEG)
+  - Electrode 8: CH8 (CZ in 10-10 system EEG)
+- [Dazzy board](https://docs.openbci.com/GettingStarted/Boards/DaisyGS/)
+  - Electrode 9: CH1 (T3 in 10-10 system EEG)
+  - Electrode 10: CH2 (CP5 in 10-10 system EEG)
+  - Electrode 11: CH3 (C3 in 10-10 system EEG)
+  - Electrode 12: CH4 (CP1 in 10-10 system EEG)
+  - Electrode 13: CH5 (CP2 in 10-10 system EEG)
+  - Electrode 14: CH6 (C4 in 10-10 system EEG)
+  - Electrode 15: CH7 (CP6 in 10-10 system EEG)
+  - Electrode 16: CH8 (T4 in 10-10 system EEG)
+This is summarized in the following image:
+![ultracoretex_mark4_nodelocation](https://github.com/user-attachments/assets/a4064d1b-d4b8-4ed7-acdc-b184a2b40fbb)
+
+# Experimental Methodology
+- At least 20 young adult subjects (without gender discrimination) aged between 20 and 35 years will be recruited to form the test group. Amputee subjects.
+- Members of the pathological group should preferably be right-handed, assessed using the Edinburgh Handedness Inventory. They must not have a history of brain surgery or other pathologies related to the central nervous system, such as epilepsy, mental disabilities, etc. Additionally, they must have the ability to understand and follow instructions.
+- Exclusion criteria will include: severe cognitive impairment, sensory deficits (such as auditory or perceptual impairments), and severe spasticity that prevents the execution of motor activities (Modified Ashworth Scale >3). The use of medications that affect task performance will also be an exclusion criterion.
+- Participants will be recruited from the Escuela Superior Politécnica del Litoral (ESPOL) in the city of Guayaquil.
+- Each test subject will be informed about the purpose of the experiment and will sign an informed consent form before participating in the study.
 
 # Tabla de registros
 - ID Sujetos
 - Nombres
 - Apellidos
 - Num. Repetición
-
-# Equipamento OpenBCI
-- ![image](https://user-images.githubusercontent.com/12642226/130701876-ac549432-40f8-4e03-908e-1b4803644065.png) ![image](https://user-images.githubusercontent.com/12642226/130701884-66926cd7-3a55-409b-bf16-33ab2e8d3845.png)
 
 # Protocolo
 - Los sujetos serán recibidos por personal encargado de llevar a cabo el experimento que los atenderá amablemente. El personal evitará utilizar batas blancas o vestimenta médica, pero tampoco se utilizará colores llamativos que distraigan la atención de los sujetos durante el experimento.
