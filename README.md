@@ -46,76 +46,77 @@ This is summarized in the following image:
 - Participants will be recruited from the Escuela Superior Politécnica del Litoral (ESPOL) in the city of Guayaquil.
 - Each test subject will be informed about the purpose of the experiment and will sign an informed consent form before participating in the study.
 
-# Tabla de registros
+# Records Table
 - ID Sujetos
 - Nombres
 - Apellidos
 - Num. Repetición
 
-# Protocolo
-- Los sujetos serán recibidos por personal encargado de llevar a cabo el experimento que los atenderá amablemente. El personal evitará utilizar batas blancas o vestimenta médica, pero tampoco se utilizará colores llamativos que distraigan la atención de los sujetos durante el experimento.
-- El personal encargado del experimento respetara las medidas de bioseguridad ante el riesgo del COVID-19, las medidas dispuestas por el ministerio de salud publica del gobierno del Ecuador incluyen: uso obligatorio de mascarillas, área de experimentación ventilada, superficies de contacto debidamente desinfectadas, así como limpieza de todos los utensilios utilizados antes y después de cada experimento. [https://www.salud.gob.ec/medidas-de-proteccion-basicas-contra-el-nuevo-coronavirus/]
-- El ambiente donde se realizará el experimento no contará con dibujos infantiles que distraigan la atención de los sujetos de prueba.
-- A cada sujeto se le hará firmar un consentimiento informado (ver anexo).
-- A cada sujeto de prueba se le asignará un ID único que permitirá anonimizar sus datos demográficos y los datos registrados durante el experimento.
-- Luego de que el sujeto de prueba firme el consentimiento informado, se le realizara una encuesta con los siguientes datos demográficos: https://forms.gle/965jAaHuoKRjLieP6
-(Usar como ejemplo, este formulario es para los registros EEG)
-- Los sujetos serán sentados en un sillón cómodo con sus extremidades superiores puestas sobre los apoya brazos del sillón y con un ángulo de codo de 145°. Por otro lado, las extremidades inferiores estarán suspendidas en el aire, apoyadas sobre un soporte de una altura de 25cm con un ángulo de 145° con respecto a sus muslos.
-- Se colocará un monitor de pantalla de 17" a una distancia entre el plano objetivo y el acromion que correspondía al 80% de la longitud del brazo.
+# Protocol
+- Subjects will be welcomed by the personnel conducting the experiment, who will attend to them courteously. The staff will avoid wearing white lab coats or medical attire, but they will also refrain from using bright colors that could distract the subjects during the experiment.
+- The experiment staff will adhere to biosecurity measures to mitigate the risk of COVID-19. The measures, as mandated by the Ministry of Public Health of Ecuador, include: mandatory use of face masks, a well-ventilated experimental area, properly disinfected contact surfaces, and cleaning of all equipment before and after each experiment. [https://www.salud.gob.ec/medidas-de-proteccion-basicas-contra-el-nuevo-coronavirus/]
+- The environment where the experiment will be conducted will not contain childish drawings or elements that could distract the subjects.
+- Each subject will be required to sign an informed consent form (see annex).
+- Every test subject will be assigned a unique ID to anonymize their demographic data and all recorded information during the experiment.
+- Once the informed consent form is signed, each subject will complete a survey collecting demographic data: [https://forms.gle/965jAaHuoKRjLieP6] (This form serves as an example and is intended for EEG recordings.)
+- Subjects will be seated in a comfortable chair, with their upper limbs resting on the armrests, ensuring a 145° elbow angle. Meanwhile, their lower limbs will remain suspended in the air, supported by a 25 cm high footrest, maintaining a 145° angle with their thighs.
+- A 17-inch screen monitor will be placed at a distance corresponding to 80% of the arm length between the target plane and the acromion.
 - ![image](https://user-images.githubusercontent.com/12642226/130649818-06206a15-ce56-4f0b-832f-40fbbf76a233.png) ![image](https://user-images.githubusercontent.com/12642226/130649824-c6c8ef17-119f-4d0e-aaf0-5eb415fac74a.png)
-- A cada sujeto se colocará el sistema de registro de EEG que consta de un casco y 16 electrodos, distribuidos en el sistema internacional 10 - 20. No se usará gel conductor en cada electrodo ya que estos son de contacto seco.
-- Antes de comenzar la adquisición de cada sesión, los investigadores impartirán instrucciones estandarizadas sobre la ejecución de las tareas a ejecutar a los participantes y se realizara una sesión corta de prueba.
-- Se solicitará a cada participante que realice 10 sesiones (5 motoras y 5 imagenetico motoras) de 240 segundos de duración cada una (4min). En cada sesión los participantes realizarán 30 tareas que incluyen la ejecución de extremidades superiores e inferiores [78,79,110]. Cada sesión será identificada con un numero que va entre 1 – 10, permitiendo que el sujeto de prueba pueda continuar con sus sesiones en días posteriores si lo considera necesario.
+- Each subject will be fitted with the EEG recording system, which consists of a helmet and 16 electrodes, distributed according to the International 10-20 system. Conductive gel will not be used on the electrodes, as they are dry-contact electrodes.
+- Before starting each session's data acquisition, the researchers will provide standardized instructions regarding the execution of the tasks to be performed by the participants. A short trial session will also be conducted.
+- Each participant will be asked to complete 10 sessions (5 motor and 5 motor imagery) lasting 240 seconds (4 minutes) each. During each session, participants will perform 30 tasks, which include the execution of upper and lower limb movements [78,79,110]. Each session will be identified with a number between 1 and 10, allowing the test subject to continue their sessions on later days if necessary.
 
-# Tareas Motoras
-- Durante las 5 sesiones de tareas motoras, el participante tendrá que mirar la pantalla y esperar hasta que aparezca la instrucción de tarea a ser ejecutada:
-- Registrar un baseline con ojos abiertos (BEO) sin ninguna orden durante 4s.
-- Registrar 30 tareas motoras (M) en forma aleatoria con tiempos aleatorios entre 4s de duración, intercaladas por 4s de descanso con ojos abiertos viendo monitor y relajando todos los músculos del cuerpo.
-- Ejecución de movimiento, cerrar mano izquierda (LCH)
-- Ejecución de movimiento, cerrar mano derecha (RCH)
-- Ejecución de movimiento, flexión dorsal de pie izquierdo (LDF)
-- Ejecución de movimiento, flexión plantar de pie izquierdo (LPF)
-- Ejecución de movimiento, flexión dorsal de pie derecho (RDF)
-- Ejecución de movimiento, flexión plantar de pie derecho (RPF)
+# Motor Tasks
+- During the 5 sessions of motor tasks, the participant will have to look at the screen and wait for the task instruction to appear:
+- Record a baseline with eyes open (BEO) without any command for 4 seconds.
+- Record 30 motor tasks (M) in a random order, with random durations of 4 seconds, interspersed with 4-second rest periods, during which the participant will keep their eyes open, looking at the monitor, and relaxing all body muscles.
+- Movement execution tasks:
+  - Close left hand (LCH)
+  - Close right hand (RCH)
+  - Dorsiflexion of the left foot (LDF)
+  - Plantar flexion of the left foot (LPF)
+  - Dorsiflexion of the right foot (RDF)
+  - Plantar flexion of the right foot (RPF)
 
-# Tareas Imagenetico Motoras
-- Durante las 5 sesiones posteriores de tareas imagenetico motoras, el participante tendrá que mirar la pantalla y esperar hasta que aparezca la instrucción de tarea a ser ejecutada:
-- Registrar un baseline con ojos abiertos (BEO) sin ninguna orden durante 4s.
-- Registrar 30 tareas imagenetico motoras (I) en forma aleatoria con tiempos aleatorios entre 4s de duración, intercaladas por 4s de descanso con ojos abiertos viendo monitor y relajando todos los músculos del cuerpo.
-- Imaginar en primera persona, cerrar mano izquierda (LCH)
-- Imaginar en primera persona, cerrar mano derecha (RCH)
-- Imaginar en primera persona, flexión dorsal de pie izquierdo (LDF)
-- Imaginar en primera persona, flexión plantar de pie izquierdo (LPF)
-- Imaginar en primera persona, flexión dorsal de pie derecho (RDF)
-- Imaginar en primera persona, flexión plantar de pie derecho (RPF)
+# Motor Imagery Tasks
+- During the following 5 sessions of motor imagery tasks, the participant will have to look at the screen and wait for the task instruction to appear:
+- Record a baseline with eyes open (BEO) without any command for 4 seconds.
+- Record 30 motor imagery tasks (I) in a random order, with random durations of 4 seconds, interspersed with 4-second rest periods, during which the participant will keep their eyes open, looking at the monitor, and relaxing all body muscles.
+- First-person motor imagery tasks:
+  - Imagine closing left hand (LCH)
+  - Imagine closing right hand (RCH)
+  - Imagine dorsiflexion of the left foot (LDF)
+  - Imagine plantar flexion of the left foot (LPF)
+  - Imagine dorsiflexion of the right foot (RDF)
+  - Imagine plantar flexion of the right foot (RPF)
 
-- Durante una sesión el sujeto deberá realizar las 30 tareas arriba indicadas con las extremidades superiores o inferiores según sea el caso.
-- Después de cada sesión, el sujeto podrá descansar por el período de tiempo que crea conveniente.
-Cada sujeto de prueba vera en pantalla imágenes características que indicaran la tarea a realizar:
+- During a session, the subject must perform the 30 tasks listed above using either the upper or lower limbs, as applicable.
+- After each session, the subject may rest for as long as they deem necessary.
+- Each test subject will see specific images on the screen indicating the task to be performed.
 - ![image](https://user-images.githubusercontent.com/12642226/130650042-4e310018-5247-482b-a3c0-2120ced9f03c.png)
 
-# Registrar un baseline con ojos abiertos (BEO) sin ningún estímulo visual.
+# Record a baseline with eyes open (BEO) without any visual stimulus.
 ![image](https://user-images.githubusercontent.com/12642226/130702170-755b4cc1-437c-4dff-9390-a5ab75a3b103.png)
 
-# Descanso con ojos abiertos viendo monitor.
+# Rest with eyes open, looking at the monitor.
 ![image](https://user-images.githubusercontent.com/12642226/130702196-e6ce844b-d12b-4813-a5d7-19288e723d95.png)
 
-# Cerrar mano izquierda (LCH).
+# Close left hand (LCH).
 ![image](https://user-images.githubusercontent.com/12642226/130702223-174f5d2e-4a36-4c90-b830-c4c9b4e27243.png)
 
-# Cerrar mano derecha (RCH).
+# Close right hand (RCH).
 ![image](https://user-images.githubusercontent.com/12642226/130702235-f0c7031f-b339-48eb-b33b-32cef575e9f6.png)
 
-# Flexión dorsal pie izquierdo (LDF).
+# Dorsiflexion of the left foot (LDF).
 ![image](https://user-images.githubusercontent.com/12642226/130702250-d1bbdfd5-82a4-4bba-a366-fdcd6c226b26.png)
 
-# Flexión plantar pie izquierdo (LPF).
+# Plantar flexion of the left foot (LPF).
 ![image](https://user-images.githubusercontent.com/12642226/130702268-8d3ba01b-c43d-4123-9490-fe3616c3ed13.png)
 
-# Flexión dorsal pie derecho (RDF).
+# Dorsiflexion of the right foot (RDF).
 ![image](https://user-images.githubusercontent.com/12642226/130702286-f2c5242a-3505-4e0a-b4ca-5cd8ea5d31dc.png)
 
-# Flexión plantar pie derecho (RPF).
+# Plantar flexion of the right foot (RPF).
 ![image](https://user-images.githubusercontent.com/12642226/130702296-11429b29-fdb8-4877-9104-04d8b4bb7661.png)
 
 # Keynote
